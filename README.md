@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Classificação de Sentimentos - IMDB
 
 Este projeto usa Machine Learning para classificar comentários de filmes como **positivos** ou **negativos**.
@@ -16,3 +17,6 @@ Este projeto usa Machine Learning para classificar comentários de filmes como *
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
+=======
+
+>>>>>>> 50f1fa36c072aa35c5bed5d70f618b63329910c0
