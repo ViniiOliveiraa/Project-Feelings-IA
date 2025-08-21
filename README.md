@@ -9,7 +9,7 @@ Este projeto usa Machine Learning para classificar comentários de filmes como *
 - Scikit-learn
 - Matplotlib
 
-## 📊 Dataset
+ 📊 Dataset
 [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## 🏃‍♂️ Como rodar
